@@ -1,1 +1,1 @@
-# terraform-tst
+# Terraform testing repo
